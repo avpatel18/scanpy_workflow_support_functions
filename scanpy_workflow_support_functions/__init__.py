@@ -4,7 +4,7 @@
 # # #Importing my module
 
 # Importing functions from root-level .py files
-from UMAP_in_Khav_Lyko_Zou_plotting_function import plot_umap_all
+from local_exp_check_UMAP_in_all_datasets import plot_umap_all
 from Chu_et_al_2023_signatures import signature_score_Chu_analysis, sample_types_sig_score_TO_df, CD8_KLRB1_sig_plot_with_Chu_etal_genes_list
 from Teff_c_signature_enrichment_in_whole_scRNAseq_dataset import teff_c_enrichment
 from pd_df_To_csv_To_gmt_conversion import deg_analysis_for_20_genes_and_as_gmt_file, volcano_plot_sample_types_csv
