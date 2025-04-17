@@ -1,8 +1,3 @@
-
-# # # Appending the main folder path
-# sys.path.append('/data/home/hmy327/sanofi_Liu_scvi_labelling')
-# # #Importing my module
-
 # Importing functions from root-level .py files
 from local_exp_check_UMAP_in_all_datasets import plot_umap_all
 from Chu_et_al_2023_signatures import signature_score_Chu_analysis, sample_types_sig_score_TO_df, CD8_KLRB1_sig_plot_with_Chu_etal_genes_list

@@ -23,3 +23,6 @@ dependencies = [
 [project.urls]
 "Homepage" = "https://github.com/avpatel18/scanpy_workflow_support_functions"
 "Bug Tracker" = "https://github.com/avpatel18/scanpy_workflow_support_functions/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
